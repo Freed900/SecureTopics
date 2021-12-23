@@ -1,0 +1,169 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+        <h2>Список советов</h2>
+    <form name="topicForm">
+        <input type="hidden" name="id" value="0" />
+        <div class="form-group col-md-5">
+            <label for="text">Совет:</label>
+            <input class="form-control" name="text" />
+        </div>
+        <div class="panel-body">
+            <button type="submit" id="submit" class="btn btn-primary">Сохранить</button>
+            <a id="reset" class="btn btn-primary">Сбросить</a>
+        </div>
+    </form>
+    <table class="table table-condensed table-striped  col-md-6">
+        <thead><tr><th>Id</th><th>Текст</th><th></th></tr></thead>
+        <tbody>
+        </tbody>
+    </table>
+    <script>
+
+        async function GetTopics() {
+
+            const response = await fetch("/api/topics", {
+                method: "GET",
+                headers: { "Accept": "application/json" }
+            });
+            if (response.ok === true) {
+                
+                const topics = await response.json();
+                let rows = document.querySelector("tbody");
+                topics.forEach(topic => {
+                    rows.append(row(topic));
+                });
+            }
+        }
+        async function GetTopic(id) {
+            const response = await fetch("/api/topics/" + id, {
+                method: "GET",
+                headers: { "Accept": "application/json" }
+            });
+            if (response.ok === true) {
+                const topic = await response.json();
+                const form = document.forms["topicForm"];
+                form.elements["id"].value = topic.id;
+                form.elements["text"].value = topic.text;
+            }
+        }
+        
+        async function CreateTopic(text) {
+
+            const response = await fetch("api/topics", {
+                method: "POST",
+                headers: { "Accept": "application/json", "Content-Type": "application/json" },
+                body: JSON.stringify({
+                    Id:"",
+                    User:"",
+                    text: text
+                })
+            });
+            if (response.ok === true) {
+                                
+                const topic = await response.json();
+                reset();
+
+                document.querySelector("tbody").append(row(topic));
+            }
+        }
+        async function EditTopic(topicId, topicText) {
+            const response = await fetch("api/topics", {
+                method: "PUT",
+                headers: { "Accept": "application/json", "Content-Type": "application/json" },
+                body: JSON.stringify({
+                    Id: topicId,
+                    User:"",
+                    text: topicText
+                })
+            });
+            if (response.ok === true) {
+                const topic = await response.json();
+                reset();
+                document.querySelector("tr[data-rowid='" + topic.id + "']").replaceWith(row(topic));
+            }
+        }
+
+        async function DeleteTopic(id) {
+            const response = await fetch("/api/topics/" + id, {
+                method: "DELETE",
+                headers: { "Accept": "application/json" }
+            });
+            if (response.ok === true) {
+                const topic = await response.json();
+                document.querySelector("tr[data-rowid='" + topic.id + "']").remove();
+            }
+        }
+
+        function reset() {
+            const form = document.forms["topicForm"];
+            form.reset();
+            form.elements["id"].value = 0;
+        }
+        
+        function row(topic) {
+            const tr = document.createElement("tr");
+            tr.setAttribute("data-rowid", topic.id);
+            
+            const idTd = document.createElement("td");
+            idTd.append(topic.id);
+            tr.append(idTd);
+
+
+            const text = document.createElement("td");
+            text.append(topic.text);
+            tr.append(text);
+
+            const linksTd = document.createElement("td");
+
+            const editLink = document.createElement("a");
+            editLink.setAttribute("data-id", topic.id);
+            editLink.setAttribute("style", "cursor:pointer;padding:15px;");
+            editLink.append("Изменить");
+
+            editLink.addEventListener("click", e => {
+                e.preventDefault();
+                GetTopic(topic.id);
+            });
+            linksTd.append(editLink);
+
+            const removeLink = document.createElement("a");
+            removeLink.setAttribute("data-id", topic.id);
+            removeLink.setAttribute("style", "cursor:pointer;padding:15px;");
+            removeLink.append("Удалить");
+            removeLink.addEventListener("click", e => {
+
+                e.preventDefault();
+                DeleteTopic(topic.id);
+            });
+
+            linksTd.append(removeLink);
+            tr.appendChild(linksTd);
+
+            return tr;
+        }
+
+        document.getElementById("reset").click(function (e) {
+
+            e.preventDefault();
+            reset();
+        })
+
+
+        document.forms["topicForm"].addEventListener("submit", e => {
+            e.preventDefault();
+            const form = document.forms["topicForm"];
+            const id = form.elements["id"].value;
+            const text = form.elements["text"].value;
+            if (id == 0)
+                CreateTopic(text);
+            else
+                EditTopic(id, text);
+        });
+
+        GetTopics();
+
+    </script>
+</div>

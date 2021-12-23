@@ -1,0 +1,84 @@
+C:\Users\romag\source\repos\SecureTopics\SecureTopicsMVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\romag\source\repos\SecureTopics\SecureTopicsMVC\bin\Debug\net6.0\appsettings.json
+C:\Users\romag\source\repos\SecureTopics\SecureTopicsMVC\bin\Debug\net6.0\SecureTopics.staticwebassets.runtime.json
+C:\Users\romag\source\repos\SecureTopics\SecureTopicsMVC\bin\Debug\net6.0\SecureTopics.exe
+C:\Users\romag\source\repos\SecureTopics\SecureTopicsMVC\bin\Debug\net6.0\SecureTopics.deps.json
+C:\Users\romag\source\repos\SecureTopics\SecureTopicsMVC\bin\Debug\net6.0\SecureTopics.runtimeconfig.json
+C:\Users\romag\source\repos\SecureTopics\SecureTopicsMVC\bin\Debug\net6.0\SecureTopics.dll
+C:\Users\romag\source\repos\SecureTopics\SecureTopicsMVC\bin\Debug\net6.0\ref\SecureTopics.dll
+C:\Users\romag\source\repos\SecureTopics\SecureTopicsMVC\bin\Debug\net6.0\SecureTopics.pdb
+C:\Users\romag\source\repos\SecureTopics\SecureTopicsMVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\romag\source\repos\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.csproj.AssemblyReference.cache
+C:\Users\romag\source\repos\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romag\source\repos\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.AssemblyInfoInputs.cache
+C:\Users\romag\source\repos\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.AssemblyInfo.cs
+C:\Users\romag\source\repos\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.csproj.CoreCompileInputs.cache
+C:\Users\romag\source\repos\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\romag\source\repos\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.RazorAssemblyInfo.cache
+C:\Users\romag\source\repos\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.RazorAssemblyInfo.cs
+C:\Users\romag\source\repos\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\romag\source\repos\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\romag\source\repos\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\romag\source\repos\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\scopedcss\bundle\SecureTopics.styles.css
+C:\Users\romag\source\repos\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\scopedcss\projectbundle\SecureTopics.bundle.scp.css
+C:\Users\romag\source\repos\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.csproj.CopyComplete
+C:\Users\romag\source\repos\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.dll
+C:\Users\romag\source\repos\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\ref\SecureTopics.dll
+C:\Users\romag\source\repos\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.pdb
+C:\Users\romag\source\repos\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.genruntimeconfig.cache
+C:\Users\romag\Desktop\SecureTopics\SecureTopicsMVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\romag\Desktop\SecureTopics\SecureTopicsMVC\bin\Debug\net6.0\appsettings.json
+C:\Users\romag\Desktop\SecureTopics\SecureTopicsMVC\bin\Debug\net6.0\SecureTopics.staticwebassets.runtime.json
+C:\Users\romag\Desktop\SecureTopics\SecureTopicsMVC\bin\Debug\net6.0\SecureTopics.exe
+C:\Users\romag\Desktop\SecureTopics\SecureTopicsMVC\bin\Debug\net6.0\SecureTopics.deps.json
+C:\Users\romag\Desktop\SecureTopics\SecureTopicsMVC\bin\Debug\net6.0\SecureTopics.runtimeconfig.json
+C:\Users\romag\Desktop\SecureTopics\SecureTopicsMVC\bin\Debug\net6.0\SecureTopics.dll
+C:\Users\romag\Desktop\SecureTopics\SecureTopicsMVC\bin\Debug\net6.0\ref\SecureTopics.dll
+C:\Users\romag\Desktop\SecureTopics\SecureTopicsMVC\bin\Debug\net6.0\SecureTopics.pdb
+C:\Users\romag\Desktop\SecureTopics\SecureTopicsMVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\romag\Desktop\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.csproj.AssemblyReference.cache
+C:\Users\romag\Desktop\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romag\Desktop\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.AssemblyInfoInputs.cache
+C:\Users\romag\Desktop\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.AssemblyInfo.cs
+C:\Users\romag\Desktop\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.csproj.CoreCompileInputs.cache
+C:\Users\romag\Desktop\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\romag\Desktop\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.RazorAssemblyInfo.cache
+C:\Users\romag\Desktop\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.RazorAssemblyInfo.cs
+C:\Users\romag\Desktop\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\romag\Desktop\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\romag\Desktop\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\romag\Desktop\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\scopedcss\bundle\SecureTopics.styles.css
+C:\Users\romag\Desktop\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\scopedcss\projectbundle\SecureTopics.bundle.scp.css
+C:\Users\romag\Desktop\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.csproj.CopyComplete
+C:\Users\romag\Desktop\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.dll
+C:\Users\romag\Desktop\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\ref\SecureTopics.dll
+C:\Users\romag\Desktop\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.pdb
+C:\Users\romag\Desktop\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.genruntimeconfig.cache
+C:\Users\katba\OneDrive\ИТИ\}{Yi Poymi\SecureTopics\SecureTopicsMVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\katba\OneDrive\ИТИ\}{Yi Poymi\SecureTopics\SecureTopicsMVC\bin\Debug\net6.0\appsettings.json
+C:\Users\katba\OneDrive\ИТИ\}{Yi Poymi\SecureTopics\SecureTopicsMVC\bin\Debug\net6.0\SecureTopics.staticwebassets.runtime.json
+C:\Users\katba\OneDrive\ИТИ\}{Yi Poymi\SecureTopics\SecureTopicsMVC\bin\Debug\net6.0\SecureTopics.exe
+C:\Users\katba\OneDrive\ИТИ\}{Yi Poymi\SecureTopics\SecureTopicsMVC\bin\Debug\net6.0\SecureTopics.deps.json
+C:\Users\katba\OneDrive\ИТИ\}{Yi Poymi\SecureTopics\SecureTopicsMVC\bin\Debug\net6.0\SecureTopics.runtimeconfig.json
+C:\Users\katba\OneDrive\ИТИ\}{Yi Poymi\SecureTopics\SecureTopicsMVC\bin\Debug\net6.0\SecureTopics.dll
+C:\Users\katba\OneDrive\ИТИ\}{Yi Poymi\SecureTopics\SecureTopicsMVC\bin\Debug\net6.0\ref\SecureTopics.dll
+C:\Users\katba\OneDrive\ИТИ\}{Yi Poymi\SecureTopics\SecureTopicsMVC\bin\Debug\net6.0\SecureTopics.pdb
+C:\Users\katba\OneDrive\ИТИ\}{Yi Poymi\SecureTopics\SecureTopicsMVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\katba\OneDrive\ИТИ\}{Yi Poymi\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.csproj.AssemblyReference.cache
+C:\Users\katba\OneDrive\ИТИ\}{Yi Poymi\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katba\OneDrive\ИТИ\}{Yi Poymi\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.AssemblyInfoInputs.cache
+C:\Users\katba\OneDrive\ИТИ\}{Yi Poymi\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.AssemblyInfo.cs
+C:\Users\katba\OneDrive\ИТИ\}{Yi Poymi\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.csproj.CoreCompileInputs.cache
+C:\Users\katba\OneDrive\ИТИ\}{Yi Poymi\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\katba\OneDrive\ИТИ\}{Yi Poymi\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.RazorAssemblyInfo.cache
+C:\Users\katba\OneDrive\ИТИ\}{Yi Poymi\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.RazorAssemblyInfo.cs
+C:\Users\katba\OneDrive\ИТИ\}{Yi Poymi\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\katba\OneDrive\ИТИ\}{Yi Poymi\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\katba\OneDrive\ИТИ\}{Yi Poymi\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\katba\OneDrive\ИТИ\}{Yi Poymi\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\scopedcss\bundle\SecureTopics.styles.css
+C:\Users\katba\OneDrive\ИТИ\}{Yi Poymi\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\scopedcss\projectbundle\SecureTopics.bundle.scp.css
+C:\Users\katba\OneDrive\ИТИ\}{Yi Poymi\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.csproj.CopyComplete
+C:\Users\katba\OneDrive\ИТИ\}{Yi Poymi\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.dll
+C:\Users\katba\OneDrive\ИТИ\}{Yi Poymi\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\ref\SecureTopics.dll
+C:\Users\katba\OneDrive\ИТИ\}{Yi Poymi\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.pdb
+C:\Users\katba\OneDrive\ИТИ\}{Yi Poymi\SecureTopics\SecureTopicsMVC\obj\Debug\net6.0\SecureTopics.genruntimeconfig.cache
